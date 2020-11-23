@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineering Student and NOOB Developer from Chile</h3>
 
-- 🌱 I’m currently learning **Spring Boot, React, TypeScript and GraphQL**
+- 🌱 I’m currently learning **Spring Boot, React, Next.js and GraphQL**
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 
@@ -31,6 +31,10 @@
     <a href="https://www.hackerrank.com/cristobalgvera" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cristobalgvera" height="30" width="40" />
     </a>
+    <!-- DEV -->
+    <a href="https://dev.to/cristobalgvera" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cristobalgvera" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,6 +58,14 @@
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <!-- Redux -->
+    <a href="https://redux.js.org" target="_blank">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <!-- NextJS -->
+     <a href="https://nextjs.org/" target="_blank">
+         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
     </a>
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">

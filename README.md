@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineering Student and NOOB Developer from Chile</h3>
 
-- 🌱 I’m currently learning **Spring Boot, React, Next.js and GraphQL**
+- 🌱 I’m currently learning **Spring Boot, React, Next.js and NestJS**
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 
@@ -71,14 +71,18 @@
     <a href="https://nodejs.org" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+    <!-- NestJS -->
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
+    </a>
     <!-- Sass -->
     <a href="https://sass-lang.com" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
-    <!-- GraphQL -->
+    <!-- GraphQL
     <a href="https://graphql.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    </a>
+    </a> -->
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>

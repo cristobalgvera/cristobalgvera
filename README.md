@@ -57,7 +57,8 @@
     </a>
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
+        <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> -->
     </a>
     <!-- Redux -->
     <a href="https://redux.js.org" target="_blank">
@@ -98,6 +99,10 @@
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <!-- Postman -->
+    <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     <!-- Adobe Illustrator -->
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">

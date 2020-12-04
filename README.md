@@ -68,6 +68,10 @@
      <a href="https://nextjs.org/" target="_blank">
          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
     </a>
+    <!-- Sass -->
+    <a href="https://sass-lang.com" target="_blank">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a>
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -75,10 +79,6 @@
     <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank">
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
-    </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     <!-- GraphQL -->
     <a href="https://graphql.org" target="_blank">
@@ -92,6 +92,10 @@
     <a href="https://www.oracle.com/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
+    <!-- Postman -->
+    <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
     <!-- Linux -->
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -99,10 +103,6 @@
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <!-- Postman -->
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     <!-- Adobe Illustrator -->
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">

@@ -41,7 +41,7 @@
 <p align="left">
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
     <!-- Spring Boot -->
     <a href="https://spring.io/" target="_blank">
@@ -49,11 +49,11 @@
     </a>
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank">
@@ -62,7 +62,7 @@
     </a>
     <!-- Redux -->
     <a href="https://redux.js.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
     <!-- NextJS -->
      <a href="https://nextjs.org/" target="_blank">
@@ -70,11 +70,11 @@
     </a>
     <!-- Sass -->
     <a href="https://sass-lang.com" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank">
@@ -86,11 +86,11 @@
     </a>
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
     <!-- Oracle DB -->
     <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
     <!-- Postman -->
     <a href="https://postman.com" target="_blank">
@@ -98,7 +98,7 @@
     </a>
     <!-- Linux -->
     <a href="https://www.linux.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank">

@@ -3,16 +3,16 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Runs at 8am GMT -3
+    - cron: "0 11 * * *"
 
 jobs:
   update-readme:
-    name: "[Auto] Update this repo's README"
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          COMMIT_MESSAGE: Update README.md
+          COMMIT_MESSAGE: "[Auto] Update README.md"

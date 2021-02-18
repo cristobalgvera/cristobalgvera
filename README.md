@@ -9,7 +9,8 @@
 
 - 🎸 I love to play music, especially **Spinetta**
 
-<h3 align="left">🔗 Connect with me:</h3>
+🔗 **Connect with me:**
+---
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/cristobalgajardov" target="blank">
@@ -37,7 +38,8 @@
     </a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+💻 **Languages and Tools:**
+---
 <p align="left">
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
@@ -122,7 +124,7 @@
     </a>
 </p>
 
-<h3 align="left">📊 Weekly development metrics:</h3>
+---
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 

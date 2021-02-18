@@ -68,10 +68,6 @@
      <a href="https://nextjs.org/" target="_blank">
          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
     </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -79,6 +75,18 @@
     <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank">
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
+    </a>
+    <!-- C# -->
+    <a href="https://www.w3schools.com/cs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <!-- .NET -->
+    <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+    </a>
+    <!-- Sass -->
+    <a href="https://sass-lang.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     <!-- GraphQL -->
     <a href="https://graphql.org" target="_blank">
@@ -91,6 +99,10 @@
     <!-- Oracle DB -->
     <a href="https://www.oracle.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    </a>
+    <!-- MSSQL (SQL Server) -->
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
     </a>
     <!-- Postman -->
     <a href="https://postman.com" target="_blank">

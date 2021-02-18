@@ -9,7 +9,7 @@
 
 - 🎸 I love to play music, especially **Spinetta**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/cristobalgajardov" target="blank">
@@ -37,7 +37,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
@@ -122,14 +122,6 @@
     </a>
 </p>
 
+<h3 align="left">📊 Weekly development metrics:</h3>
 <!--START_SECTION:waka-->
-```text
-Week: 10 February, 2021 - 17 February, 2021
-
-C#           2 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.26 % 
-TypeScript   37 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.11 % 
-HTML         36 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.64 % 
-SQL          21 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.44 % 
-Git Config   10 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.77 % 
-```
 <!--END_SECTION:waka-->

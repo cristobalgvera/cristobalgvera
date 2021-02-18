@@ -9,7 +9,7 @@
 
 - 🎸 I love to play music, especially **Spinetta**
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 
 <p align="left">
     <!-- LinkedIn -->
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <p align="left">
     <!-- Java -->

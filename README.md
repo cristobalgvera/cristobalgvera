@@ -124,6 +124,8 @@
     </a>
 </p>
 
+## 📊 Weekly development stats
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 

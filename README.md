@@ -9,37 +9,37 @@
 
 - 🎸 I love to play music, especially **Spinetta**
 
-🔗 **Connect with me:**
----
+### 🔗 Connect with me:
+
 <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/cristobalgajardov" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristobalgvera" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkeding logo" height="30" width="40" />
     </a>
     <!-- Instagram -->
     <a href="https://instagram.com/cristobalgvera" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cristobalgvera" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram logo" height="30" width="40" />
     </a>
     <!-- Facebook -->
     <a href="https://fb.com/cristobalgajardo.v" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cristobalgajardo.v" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook logo" height="30" width="40" />
     </a>
     <!-- Stack Overflow -->
     <a href="https://stackoverflow.com/users/13816773" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13816773" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow logo" height="30" width="40" />
     </a>
     <!-- HackerRank -->
     <a href="https://www.hackerrank.com/cristobalgvera" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="cristobalgvera" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank logo" height="30" width="40" />
     </a>
-    <!-- DEV -->
+    <!-- DEV.to -->
     <a href="https://dev.to/cristobalgvera" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cristobalgvera" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV.to logo" height="30" width="40" />
     </a>
 </p>
 
-💻 **Languages and Tools:**
----
+### 💻 Languages and Tools:
+
 <p align="left">
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">

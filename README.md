@@ -128,7 +128,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2021 - 20 February, 2021
+Week: 14 February, 2021 - 21 February, 2021
 
 C#           4 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   39.78 % 
 TypeScript   2 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 % 

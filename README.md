@@ -132,10 +132,6 @@ SQL          1 hr 56 mins    █░░░░░░░░░░░░░░░░
     <a href="https://sass-lang.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="5%" height="5%"/>
     </a>
-    <!-- Adobe Illustrator -->
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="5%" height="5%"/>
-    </a>
 </p>
 
 ### 💾 Databases:
@@ -169,5 +165,9 @@ SQL          1 hr 56 mins    █░░░░░░░░░░░░░░░░
     <!-- Git -->
     <a href="https://git-scm.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/>
+    </a>
+    <!-- Adobe Illustrator -->
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="5%" height="5%"/>
     </a>
 </p>

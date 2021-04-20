@@ -134,7 +134,7 @@ JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░
     </a>
 </p>
 
-### 💾 Databases:
+###  Databases:
 
 <p align="left">
     <!-- PostgreSQL -->

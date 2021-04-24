@@ -149,6 +149,10 @@ JavaScript   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>
     </a>
+    <!-- Firebase -->
+     <a href="https://firebase.google.com/" target="_blank">
+         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="5%" height="5%"/>
+    </a>
 </p>
 
 ### 🎧 Others:

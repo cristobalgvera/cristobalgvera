@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 April, 2021 - 07 May, 2021
+Week: 01 May, 2021 - 08 May, 2021
 
 C#           9 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.00 % 
 TypeScript   8 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.73 % 

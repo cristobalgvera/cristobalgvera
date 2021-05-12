@@ -147,7 +147,7 @@ JSON         14 mins         ▒░░░░░░░░░░░░░░░░
     </a>
     <!-- MSSQL (SQL Server) -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>
+        <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>
     </a>
     <!-- Firebase -->
      <a href="https://firebase.google.com/" target="_blank">

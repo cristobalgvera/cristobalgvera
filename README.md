@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 19 July, 2021 - 25 July, 2021
 
 C#           6 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   44.70 % 
 SQL          5 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 

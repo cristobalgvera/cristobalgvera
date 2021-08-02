@@ -58,9 +58,11 @@ Markdown     36 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="left">
      <!-- Java -->
+    <!--
     <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%" height="5%"/>
     </a>
+    -->
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%" height="5%"/>
@@ -83,9 +85,11 @@ Markdown     36 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="left">
     <!-- Spring Boot -->
+    <!--
     <a href="https://spring.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="5%" height="5%"/>
     </a>
+    -->
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="5%" height="5%"/>
@@ -94,18 +98,20 @@ Markdown     36 mins         ▓░░░░░░░░░░░░░░░░
     <a href="https://nestjs.com" target="_blank">
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="5%" height="5%"/>
     </a>
-    <!-- Google Apps Script -->
-    <a href="https://developers.google.com/apps-script" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" alt="google-app-script" width="5%" height="5%"/>
-    </a>
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="5%" height="5%"/>
     </a>
+    <!-- Google Apps Script -->
+    <a href="https://developers.google.com/apps-script" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" alt="google-app-script" width="5%" height="5%"/>
+    </a>
     <!-- GraphQL -->
+    <!--
     <a href="https://graphql.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="5%" height="5%"/>
     </a>
+    -->
 </p>
 
 ### 🎶 Front end:
@@ -138,13 +144,11 @@ Markdown     36 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="left">
     <!-- PostgreSQL -->
+    <!--
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="5%" height="5%"/>
     </a>
-    <!-- Oracle DB -->
-    <a href="https://www.oracle.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="5%" height="5%"/>
-    </a>
+    -->
     <!-- MSSQL (SQL Server) -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>

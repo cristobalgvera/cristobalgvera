@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineering Student and NOOB Developer from Chile</h3>
 
-- 🌱 I’m currently learning **Google Apps Script, C#, ASP.NET and Angular**
+- 🌱 I’m currently learning **TypeScript, React, C# and ASP.NET**
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 
@@ -76,9 +76,11 @@ HTML         16 mins         ▓░░░░░░░░░░░░░░░░
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="5%" height="5%"/>
     </a>
     <!-- Python -->
+    <!--
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%" height="5%"/>
     </a>
+    -->
 </p>
 
 ### 🎼 Back end:
@@ -167,15 +169,19 @@ HTML         16 mins         ▓░░░░░░░░░░░░░░░░
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%" height="5%"/>
     </a>
     <!-- Linux -->
+    <!--
     <a href="https://www.linux.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="5%" height="5%"/>
     </a>
+    -->
     <!-- Git -->
     <a href="https://git-scm.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/>
     </a>
     <!-- Adobe Illustrator -->
+    <!--
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="5%" height="5%"/>
     </a>
+    -->
 </p>

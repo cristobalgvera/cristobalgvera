@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 24 September, 2021
+Week: 19 September, 2021 - 25 September, 2021
 
 Other        10 hrs 41 mins  ████████████████▓░░░░░░░░   66.01 % 
 C#           2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 

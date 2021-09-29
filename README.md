@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-Other        10 hrs 26 mins  █████████████████▒░░░░░░░   68.75 % 
-Markdown     1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-C#           1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TypeScript   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-SQL          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other        13 hrs 5 mins   ████████████████░░░░░░░░░   63.43 % 
+C#           3 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown     1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+TypeScript   1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+SQL          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
 

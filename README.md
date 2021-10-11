@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 C#           15 hrs 3 mins   ██████████████████████░░░   87.52 % 
 SQL          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 

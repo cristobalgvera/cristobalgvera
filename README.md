@@ -57,12 +57,6 @@ SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
 ### 🎷 Languages:
 
 <p align="left">
-     <!-- Java -->
-    <!--
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%" height="5%"/>
-    </a>
-    -->
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%" height="5%"/>
@@ -75,6 +69,10 @@ SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="5%" height="5%"/>
     </a>
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%" height="5%"/>
+    </a>
     <!-- Python -->
     <!--
     <a href="https://www.python.org" target="_blank">
@@ -86,12 +84,6 @@ SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
 ### 🎼 Back end:
 
 <p align="left">
-    <!-- Spring Boot -->
-    <!--
-    <a href="https://spring.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="5%" height="5%"/>
-    </a>
-    -->
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="5%" height="5%"/>
@@ -103,6 +95,10 @@ SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="5%" height="5%"/>
+    </a>
+    <!-- Spring Boot -->
+    <a href="https://spring.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="5%" height="5%"/>
     </a>
     <!-- Google Apps Script -->
     <a href="https://developers.google.com/apps-script" target="_blank">
@@ -136,8 +132,12 @@ SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
     <a href="https://angular.io" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="5%" height="5%"/>
     </a>
-    <!-- Sass -->
+    <!-- TailwindCSS -->
     <a href="https://sass-lang.com" target="_blank">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="sass" width="5%" height="5%"/>
+    </a>
+    <!-- Sass -->
+    <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="5%" height="5%"/>
     </a>
 </p>

@@ -42,13 +42,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-TypeScript   16 hrs 21 mins  ████████████▒░░░░░░░░░░░░   49.87 % 
-Java         6 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.47 % 
-C#           2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-SQL          2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Python       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript   16 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   40.64 % 
+Java         6 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+JavaScript   3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+C#           2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+SQL          2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 <!--END_SECTION:waka-->
 

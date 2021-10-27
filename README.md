@@ -29,9 +29,11 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow logo" width="5%" height="5%"/>
     </a>
     <!-- HackerRank -->
+    <!--
     <a href="https://www.hackerrank.com/cristobalgvera" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank logo" width="5%" height="5%"/>
     </a>
+    -->
     <!-- DEV.to -->
     <a href="https://dev.to/cristobalgvera" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV.to logo" width="5%" height="5%"/>

@@ -44,13 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
-TypeScript   9 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
-Java         6 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-C#           3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JavaScript   3 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Go           2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+TypeScript   7 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.45 % 
+C#           3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript   3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Go           2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Java         2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 ```
 <!--END_SECTION:waka-->
 

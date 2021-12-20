@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
 Bash         3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 % 
 PowerShell   3 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.10 % 

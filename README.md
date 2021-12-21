@@ -44,13 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
+Week: 14 December, 2021 - 20 December, 2021
 
-Bash         3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 % 
-PowerShell   3 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Markdown     2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-VimL         1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-TOML         1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Bash       2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Markdown   1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 % 
+VimL       1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
+HTML       1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+TOML       1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 <!--END_SECTION:waka-->
 

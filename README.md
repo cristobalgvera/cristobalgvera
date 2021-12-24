@@ -44,13 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2021 - 22 December, 2021
+Week: 17 December, 2021 - 23 December, 2021
 
-JavaScript   6 hrs 38 mins   ████████████▓░░░░░░░░░░░░   50.62 % 
-Markdown     1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-VimL         1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-YAML         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-HTML         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JavaScript   7 hrs 35 mins   ███████████████▒░░░░░░░░░   61.72 % 
+YAML         1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+HTML         1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JSON         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
 

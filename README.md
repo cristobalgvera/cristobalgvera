@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
 JavaScript   7 hrs 35 mins   ███████████████▒░░░░░░░░░   61.72 % 
 YAML         1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 

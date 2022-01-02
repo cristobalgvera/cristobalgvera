@@ -44,9 +44,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
-Lua          48 mins         ████████████████████████▓   99.10 % 
+Lua          48 mins         ██████████████████████▓░░   90.98 % 
+HTML         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 <!--END_SECTION:waka-->
 

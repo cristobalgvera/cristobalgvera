@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Cristóbal</h1>
-<h3 align="center">A passionate Industrial Engineering Student and Software Developer from Chile</h3>
+<h3 align="center">A passionate Industrial Engineer and Software Developer from Chile 🇨🇱</h3>
 
 - 🌱 I’m currently learning **[AWS](https://aws.amazon.com), [Go](https://golang.org) and [Nx](https://nx.dev)**
 
@@ -88,7 +88,7 @@ HTML         4 mins          █████████████████
     </a>
     <!-- NestJS -->
     <a href="https://nestjs.com" target="_blank">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="5%" height="5%"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="5%" height="5%"/>
     </a>
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com" target="_blank">
@@ -108,6 +108,10 @@ HTML         4 mins          █████████████████
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="5%" height="5%"/>
     </a>
     -->
+    <!-- AWS -->
+    <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="5%" height="5%" />
+    </a>
 </p>
 
 ### 🎶 Front end:
@@ -131,11 +135,11 @@ HTML         4 mins          █████████████████
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="5%" height="5%"/>
     </a>
     <!-- TailwindCSS -->
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="sass" width="5%" height="5%"/>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="5%" height="5%"/>
     </a>
     <!-- Sass -->
-    <a href="https://tailwindcss.com/" target="_blank">
+    <a href="https://sass-lang.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="5%" height="5%"/>
     </a>
 </p>
@@ -180,6 +184,20 @@ HTML         4 mins          █████████████████
     <!--
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="5%" height="5%"/>
+    </a>
+    -->
+    <!-- Bash -->
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="5%" height="5%" />
+    </a>
+    <!-- JestJS -->
+    <a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="5%" height="5%" />
+    </a>
+    <!-- Puppeteer -->
+    <!--
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="5%" height="5%" />
     </a>
     -->
 </p>

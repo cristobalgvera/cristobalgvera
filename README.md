@@ -44,9 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
-
-HTML         4 mins          ████████████████████████▓   98.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

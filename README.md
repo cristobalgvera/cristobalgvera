@@ -5,7 +5,7 @@
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 
-- 📄 Know about my experiences [es_CL](https://drive.google.com/file/d/1ec0Q3UHisuzlO1hB4RE2__OQChbnr27X)
+- 📄 Know about my experiences [es_CL](https://bit.ly/cv-cristobal-gajardo)
 
 - 🎸 I love to play music, especially **Spinetta**
 

@@ -44,7 +44,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 January, 2022 - 17 January, 2022
+
+C#   2 hrs 3 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

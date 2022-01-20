@@ -44,9 +44,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-C#   2 hrs 36 mins   █████████████████████████   100.00 % 
+C#   2 hrs 42 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

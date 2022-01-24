@@ -51,6 +51,8 @@ JavaScript   6 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<i>* Recently, I start using Neovim to develop and my laptop has a bug with the WakaTime plugin. That's why this section seems so bad 😅. I'm working on it.</i>
+    
 ## 💻 Languages and Technologies:
 
 ### 🎷 Languages:
@@ -201,4 +203,8 @@ JavaScript   6 mins          █░░░░░░░░░░░░░░░░
         <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="5%" height="5%" />
     </a>
     -->
+    <!-- Neovim -->
+    <a href="https://neovim.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="5%" height="5%" />
+    </a>
 </p>

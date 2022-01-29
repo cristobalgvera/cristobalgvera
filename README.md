@@ -44,9 +44,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
-JavaScript   6 mins          ███████████████████████░░   91.89 % 
+textmate         1 hr 7 mins     ███████████████████▓░░░░░   79.07 % 
+Java             10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+XML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 

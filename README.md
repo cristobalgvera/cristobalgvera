@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 textmate         1 hr 7 mins     ███████████████████▓░░░░░   79.07 % 
 Java             10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 

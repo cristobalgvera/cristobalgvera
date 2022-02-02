@@ -44,12 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 26 January, 2022 - 01 February, 2022
 
-textmate         1 hr 7 mins     ███████████████████▓░░░░░   79.07 % 
-Java             10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-XML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+textmate     1 hr 7 mins     ███████████████▓░░░░░░░░░   62.84 % 
+TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Java         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+XML          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 <!--END_SECTION:waka-->
 

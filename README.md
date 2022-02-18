@@ -44,13 +44,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Java             17 hrs 10 mins  ████████████████████▓░░░░   83.26 % 
-XML              1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-JavaScript       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-YAML             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Total: 16 hrs 35 mins
+
+Java       14 hrs 33 mins  ██████████████████████░░░   87.77 % 
+XML        1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Markdown   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 

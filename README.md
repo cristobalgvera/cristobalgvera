@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 09 March 2022
+From: 03 March 2022 - To: 10 March 2022
 
-Java             41 hrs 58 mins  ████████████████████▓░░░░   82.39 %
-SQL              2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-XML              2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-YAML             1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Properties       58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java             37 hrs 21 mins  ████████████████████░░░░░   80.30 %
+XML              2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+SQL              2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+YAML             2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Properties       58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+GitIgnore file   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->

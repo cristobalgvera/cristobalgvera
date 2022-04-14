@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineer and Software Developer from Chile 🇨🇱</h3>
 
-- 🌱 I’m currently learning **[AWS](https://aws.amazon.com) and [Rust](https://www.rust-lang.org)**
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)**
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 

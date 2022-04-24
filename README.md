@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2022 - To: 23 April 2022
+From: 17 April 2022 - To: 24 April 2022
 
 Java         16 hrs 25 mins  ████████████████░░░░░░░░░   64.44 %
 JavaScript   4 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %

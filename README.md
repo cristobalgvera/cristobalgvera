@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 Java          13 hrs 9 mins   ███████████████████▓░░░░░   79.02 %
 SQL           2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %

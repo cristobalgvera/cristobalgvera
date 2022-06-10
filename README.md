@@ -135,7 +135,7 @@ YAML             46 mins         ▓░░░░░░░░░░░░░░�
     </a>
     <!-- NextJS -->
     <a href="https://nextjs.org" target="_blank">
-         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="5%" height="5%"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" alt="nextjs" width="5%" height="5%"/>
     </a>
     <!-- Angular -->
     <a href="https://angular.io" target="_blank">

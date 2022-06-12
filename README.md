@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 June 2022 - To: 11 June 2022
+From: 05 June 2022 - To: 12 June 2022
 
 Java         19 hrs 31 mins  █████████████▓░░░░░░░░░░░   54.58 %
 TypeScript   6 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %

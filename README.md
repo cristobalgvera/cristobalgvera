@@ -155,11 +155,9 @@ JSON            9 mins          ░░░░░░░░░░░░░░░░
 
 <p align="left">
     <!-- PostgreSQL -->
-    <!--
-    <a href="https://www.postgresql.org" target="_blank">
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="5%" height="5%"/>
     </a>
-    -->
     <!-- MSSQL (SQL Server) -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>

@@ -47,6 +47,8 @@
 ```text
 From: 29 July 2022 - To: 05 August 2022
 
+Total Time: 5 hrs 11 mins
+
 TypeScript   2 hrs 46 mins   █████████████▒░░░░░░░░░░░   52.71 %
 JavaScript   1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   28.81 %
 JSON         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %

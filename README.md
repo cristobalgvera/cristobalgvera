@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
-Total Time: 6 hrs 11 mins
+Total Time: 4 hrs 10 mins
 
-TypeScript   3 hrs 47 mins   ███████████████▒░░░░░░░░░   61.37 %
-SQL          2 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.72 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-.env file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript   2 hrs 40 mins   ████████████████░░░░░░░░░   64.27 %
+SQL          1 hr 23 mins    ████████▒░░░░░░░░░░░░░░░░   33.37 %
+.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->

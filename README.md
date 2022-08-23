@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ✌🏻, I'm Cristóbal</h1>
-<h3 align="center">A passionate Industrial Engineer and Software Developer from Chile 🇨🇱</h3>
+<h3 align="center">A passionate Industrial Engineer and Software Engineer from Chile 🇨🇱</h3>
 
 - 🌱 I’m currently learning **[Rust](https://www.rust-lang.org)**
 

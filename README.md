@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
+From: 17 August 2022 - To: 24 August 2022
 
-Total Time: 6 hrs 13 mins
+Total Time: 6 hrs 8 mins
 
-TypeScript       2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   43.03 %
-Java             1 hr 44 mins    ███████░░░░░░░░░░░░░░░░░░   27.88 %
-SQL              1 hr 23 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-Lua              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Properties       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Gradle           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript       2 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.67 %
+Java             1 hr 44 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Bash             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+SQL              32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TOML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Lua              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->

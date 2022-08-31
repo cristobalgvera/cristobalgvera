@@ -45,16 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 29 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-Total Time: 2 hrs 48 mins
+Total Time: 45 mins
 
-Java             1 hr 44 mins    ███████████████▒░░░░░░░░░   61.71 %
-Bash             35 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-TOML             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Lua              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Properties       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Gradle           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Bash         35 mins         ███████████████████▓░░░░░   78.04 %
+TOML         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+PowerShell   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->

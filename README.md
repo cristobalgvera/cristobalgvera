@@ -45,13 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-Total Time: 45 mins
+Total Time: 2 hrs 4 mins
 
-Bash         35 mins         ███████████████████▓░░░░░   78.04 %
-TOML         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-PowerShell   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+SQL              1 hr 58 mins    ███████████████████████▓░   95.16 %
+Terraform        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->

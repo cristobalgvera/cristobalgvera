@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-Total Time: 3 hrs 31 mins
+Total Time: 3 hrs 59 mins
 
-JavaScript   1 hr 16 mins    █████████░░░░░░░░░░░░░░░░   35.96 %
-SQL          53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-YAML         39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Lua          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Prisma       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JavaScript   1 hr 16 mins    ████████░░░░░░░░░░░░░░░░░   31.75 %
+SQL          53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+YAML         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+TypeScript   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Lua          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->

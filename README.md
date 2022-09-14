@@ -177,6 +177,10 @@ SCSS             45 mins         █▒░░░░░░░░░░░░░�
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
+    <!-- Nx -->
+    <a href="https://nx.dev/" target="_blank" rel="noreferrer">
+        <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2995/95998d2a-00f2-4e8e-9ebc-0b06de97c37f.png" alt="nx" width="40" height="40"/>
+    </a>
     <!-- Postman -->
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%" height="5%"/>

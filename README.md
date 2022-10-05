@@ -165,8 +165,12 @@ Bash         9 mins          █░░░░░░░░░░░░░░░░
         <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="5%" height="5%"/>
     </a>
     <!-- Firebase -->
-     <a href="https://firebase.google.com/" target="_blank">
+    <a href="https://firebase.google.com/" target="_blank">
          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="5%" height="5%"/>
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%" height="5%"/>
     </a>
 </p>
 

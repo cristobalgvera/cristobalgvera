@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Total Time: 4 hrs 46 mins
+Total Time: 2 hrs 17 mins
 
-TypeScript   1 hr 42 mins    █████████░░░░░░░░░░░░░░░░   35.79 %
-SQL          1 hr 28 mins    ███████▓░░░░░░░░░░░░░░░░░   30.90 %
-HTML         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript   1 hr 24 mins    ███████████████▒░░░░░░░░░   61.78 %
+HTML         26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+JSON         16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+tsconfig     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+.env file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->

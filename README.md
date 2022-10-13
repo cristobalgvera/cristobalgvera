@@ -45,16 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
-
-Total Time: 2 hrs 17 mins
-
-TypeScript   1 hr 24 mins    ███████████████▒░░░░░░░░░   61.78 %
-HTML         26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-JSON         16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-tsconfig     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-.env file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

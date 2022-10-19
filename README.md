@@ -45,11 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Total Time: 0 secs
+Total Time: 1 hr 29 mins
 
-HTML   0 secs          █████████████████████████   100.00 %
+TypeScript   51 mins         ██████████████▓░░░░░░░░░░   58.28 %
+Bash         22 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+.env file    9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->

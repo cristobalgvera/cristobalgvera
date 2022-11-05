@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-Total Time: 1 hr 48 mins
+Total Time: 4 hrs 7 mins
 
-TypeScript       46 mins         ██████████▓░░░░░░░░░░░░░░   42.93 %
-YAML             24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-Lua              17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-HTML             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-.env file        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+TypeScript       1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   36.47 %
+Lua              1 hr 25 mins    ████████▒░░░░░░░░░░░░░░░░   33.74 %
+JSON             25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+JavaScript       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+HTML             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+YAML             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->

@@ -111,12 +111,6 @@ GraphQL      16 mins         ▒░░░░░░░░░░░░░░░░
     <a href="https://developers.google.com/apps-script" target="_blank">
         <img src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" alt="google-app-script" width="5%" height="5%"/>
     </a>
-    <!-- GraphQL -->
-    <!--
-    <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="5%" height="5%"/>
-    </a>
-    -->
     <!-- AWS -->
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="5%" height="5%" />
@@ -171,6 +165,10 @@ GraphQL      16 mins         ▒░░░░░░░░░░░░░░░░
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%" height="5%"/>
+    </a>
+    <!-- GraphQL -->
+    <a href="https://graphql.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="5%" height="5%"/>
     </a>
 </p>
 

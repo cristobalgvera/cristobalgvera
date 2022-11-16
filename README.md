@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
+From: 08 November 2022 - To: 15 November 2022
 
-Total Time: 18 hrs 5 mins
+Total Time: 13 hrs 57 mins
 
-TypeScript   6 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   38.61 %
-Lua          5 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.96 %
-SQL          1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Bash         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Java         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+TypeScript   6 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.84 %
+SQL          1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Lua          1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Bash         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+YAML         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Java         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->

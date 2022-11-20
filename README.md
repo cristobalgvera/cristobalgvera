@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-Total Time: 28 hrs 8 mins
+Total Time: 33 hrs 44 mins
 
-TypeScript       13 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   47.07 %
-Bash             3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Java             2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-YAML             2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Markdown         1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-SQL              1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+TypeScript       20 hrs 18 mins  ██████████████▓░░░░░░░░░░   59.01 %
+Bash             3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+YAML             2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Java             2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Markdown         2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Other            39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->

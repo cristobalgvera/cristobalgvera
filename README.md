@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-Total Time: 39 hrs 22 mins
+Total Time: 35 hrs 40 mins
 
-TypeScript   22 hrs 18 mins  ██████████████░░░░░░░░░░░   55.63 %
-Bash         4 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-JSON         3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-YAML         3 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Markdown     3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Docker       1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+TypeScript   18 hrs 39 mins  █████████████░░░░░░░░░░░░   51.40 %
+Bash         4 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+JSON         3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+YAML         3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Markdown     3 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Docker       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->

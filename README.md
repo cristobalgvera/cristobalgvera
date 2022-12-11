@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-Total Time: 17 hrs 6 mins
+Total Time: 16 hrs 37 mins
 
-TypeScript   15 hrs 23 mins  ██████████████████████▒░░   89.86 %
-JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JavaScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-SQL          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   14 hrs 40 mins  ██████████████████████░░░   88.19 %
+JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+SQL          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->

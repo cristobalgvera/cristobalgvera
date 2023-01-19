@@ -45,14 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-Total Time: 11 hrs 18 mins
+Total Time: 5 hrs 15 mins
 
-TypeScript   9 hrs 26 mins   ████████████████████▒░░░░   81.59 %
-JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+TypeScript   3 hrs 44 mins   █████████████████▒░░░░░░░   69.16 %
+JSON         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Docker       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->

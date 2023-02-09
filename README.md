@@ -45,13 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-Total Time: 11 hrs 32 mins
+Total Time: 10 hrs 45 mins
 
-TypeScript    6 hrs 38 mins   █████████████▒░░░░░░░░░░░   53.40 %
-YAML          1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Other         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+TypeScript    6 hrs 49 mins   ██████████████▓░░░░░░░░░░   58.55 %
+Other         53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->

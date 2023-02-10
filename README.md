@@ -45,12 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-Total Time: 10 hrs 45 mins
+Total Time: 15 hrs 16 mins
 
-TypeScript    6 hrs 49 mins   ██████████████▓░░░░░░░░░░   58.55 %
-Other         53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+TypeScript   12 hrs 6 mins   ███████████████████▒░░░░░   76.68 %
+JSON         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Bash         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+JavaScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->

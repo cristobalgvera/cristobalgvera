@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 07 April 2023
+From: 01 April 2023 - To: 08 April 2023
 
-Total Time: 9 hrs 33 mins
+Total Time: 12 hrs 9 mins
 
-TypeScript   5 hrs 56 mins   ███████████████▒░░░░░░░░░   61.89 %
-YAML         1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-JSON         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-HTML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Lua          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TypeScript   7 hrs 42 mins   ███████████████▓░░░░░░░░░   63.06 %
+YAML         2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Lua          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->

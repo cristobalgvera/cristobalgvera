@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ✌🏻, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineer and Software Engineer from Chile 🇨🇱</h3>
 
-- 🌱 I’m currently working with **[TypeScript](https://www.typescriptlang.org)** mostly using **[NestJS](https://nestjs.com)**
+- 🌱 I’m currently working with **[TypeScript](https://www.typescriptlang.org)** mostly using **[NestJS](https://nestjs.com)** and **[Angular](https://angular.io)**
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 

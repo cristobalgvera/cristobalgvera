@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 27 October 2023
+From: 21 October 2023 - To: 28 October 2023
 
-Total Time: 12 hrs 42 mins
+Total Time: 9 hrs 56 mins
 
-TypeScript   11 hrs 42 mins  ██████████████████████▓░░   90.25 %
-SQL          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Ezhil        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript   9 hrs 14 mins   ██████████████████████▓░░   90.55 %
+SQL          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 7 hrs 47 mins
+Total Time: 8 hrs 10 mins
 
-TypeScript   5 hrs 13 mins   ████████████████▒░░░░░░░░   64.69 %
-Lua          59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-SQL          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Other        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript   5 hrs 19 mins   ███████████████▓░░░░░░░░░   62.66 %
+SQL          1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Lua          59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->

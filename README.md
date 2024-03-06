@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Total Time: 11 hrs 21 mins
+Total Time: 11 hrs 49 mins
 
-TypeScript   8 hrs 34 mins   ██████████████████▓░░░░░░   74.19 %
-JavaScript   1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-SQL          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   9 hrs 2 mins    ██████████████████▓░░░░░░   75.20 %
+JavaScript   1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+SQL          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->

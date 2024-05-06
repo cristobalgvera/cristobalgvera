@@ -96,7 +96,7 @@ CSV          8 mins          ▒░░░░░░░░░░░░░░░░
     </a>
     <!-- NestJS -->
     <a href="https://nestjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="5%" height="5%"/>
+        <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="5%" height="5%"/>
     </a>
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com" target="_blank">

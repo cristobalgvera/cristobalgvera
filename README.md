@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 15 mins
 
-TypeScript   44 mins         █████████████▒░░░░░░░░░░░   53.18 %
-SQL          17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-HTML         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-JSON         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TypeScript   40 mins         ████████████▓░░░░░░░░░░░░   50.69 %
+SQL          23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->

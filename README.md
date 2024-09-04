@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ✌🏻, I'm Cristóbal</h1>
 <h3 align="center">A passionate Industrial Engineer and Software Engineer from Chile 🇨🇱</h3>
 
-- 🧑🏻‍💻 I’m currently working with **[TypeScript](https://www.typescriptlang.org)** mostly using **[NestJS](https://nestjs.com)** and **[Angular](https://angular.io)**
+- 🧑🏻‍💻 I’m currently working with **[TypeScript](https://www.typescriptlang.org)** mostly using **[NestJS](https://nestjs.com)**, **[Angular](https://angular.io)**, and **[Nx](https://nx.dev)**.
 
 - 🌱 I'm currently learning **[Rust](https://www.rust-lang.org)** (and a sometimes **[Gleam](https://gleam.run/)**)
 
@@ -177,12 +177,12 @@ JavaScript                 49 mins         █▒░░░░░░░░░░�
 
 <p align="left">
     <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="5%" height="5%"/>
     </a>
     <!-- Nx -->
-    <a href="https://nx.dev/" target="_blank" rel="noreferrer">
-        <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2995/95998d2a-00f2-4e8e-9ebc-0b06de97c37f.png" alt="nx" width="40" height="40"/>
+    <a href="https://nx.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" alt="nx" width="5%" height="5%"/>
     </a>
     <!-- Postman -->
     <a href="https://postman.com" target="_blank">

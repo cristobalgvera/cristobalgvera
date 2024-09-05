@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2024 - To: 03 September 2024
+From: 28 August 2024 - To: 04 September 2024
 
-Total Time: 17 hrs 7 mins
+Total Time: 15 hrs 33 mins
 
-TypeScript                 8 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.88 %
-Lua                        4 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Rust                       1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JSON                       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-JavaScript                 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Lua          4 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+TypeScript   4 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.54 %
+Bash         1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Rust         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+zsh          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->

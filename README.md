@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 05 November 2024 - To: 12 November 2024
 
-Total Time: 5 hrs 24 mins
+Total Time: 2 hrs 57 mins
 
-TypeScript                 2 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
-YAML                       1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
-Nginx configuration file   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-JSON                       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Docker                     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript                 1 hr 26 mins    ████████████▒░░░░░░░░░░░░   48.89 %
+Nginx configuration file   33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+JSON                       29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Markdown                   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+JavaScript                 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->

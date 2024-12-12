@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 10 December 2024
+From: 04 December 2024 - To: 11 December 2024
 
-Total Time: 8 hrs 22 mins
+Total Time: 8 hrs 9 mins
 
-Terraform       2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-TypeScript      1 hr 56 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-Vue.js          59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-JavaScript      57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-JSON            42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+TypeScript   3 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.97 %
+Terraform    1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Vue.js       59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+JavaScript   57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->

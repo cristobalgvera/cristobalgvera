@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-Total Time: 12 hrs 34 mins
+Total Time: 10 hrs 21 mins
 
-Terraform       2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-Docker          1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-TypeScript      1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-JavaScript      1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Markdown        1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Terraform       2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+TypeScript      1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+JavaScript      1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Markdown        1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Docker          59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
 ```
 
 <!--END_SECTION:waka-->

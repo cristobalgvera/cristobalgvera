@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Total Time: 4 hrs 15 mins
+Total Time: 3 hrs 59 mins
 
-Terraform         2 hrs 49 mins   ████████████████▓░░░░░░░░   66.19 %
-Markdown          30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-JavaScript        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Bash              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-confini           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Terraform         2 hrs 49 mins   █████████████████▓░░░░░░░   70.49 %
+Markdown          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Bash              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+confini           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->

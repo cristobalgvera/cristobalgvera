@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 14 January 2025 - To: 21 January 2025
 
-Total Time: 4 hrs 22 mins
+Total Time: 3 hrs 58 mins
 
-TypeScript   2 hrs 57 mins   █████████████████░░░░░░░░   67.56 %
-SQL          1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.28 %
-TSConfig     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript   3 hrs 38 mins   ███████████████████████░░   91.45 %
+SQL          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+TSConfig     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->

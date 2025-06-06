@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-Total Time: 2 hrs 48 mins
+Total Time: 3 hrs 7 mins
 
-Terraform         56 mins         ████████▒░░░░░░░░░░░░░░░░   32.95 %
-TypeScript        40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-Markdown          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-Protocol Buffer   24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-JSON              12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Terraform         56 mins         ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+Markdown          51 mins         ███████░░░░░░░░░░░░░░░░░░   27.48 %
+TypeScript        25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Bash              14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Protocol Buffer   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 ```
 
 <!--END_SECTION:waka-->

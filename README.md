@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 5 hrs 50 mins
+Total Time: 3 hrs 49 mins
 
-Python       2 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   40.16 %
-TypeScript   1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-HCL          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Terraform    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Python      2 hrs 27 mins   ███████████████░░░░░░░░░░   59.68 %
+HCL         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Other       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Terraform   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+zsh         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->

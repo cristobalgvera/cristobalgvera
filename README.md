@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 3 hrs 49 mins
+Total Time: 3 hrs 57 mins
 
-Python      2 hrs 27 mins   ███████████████░░░░░░░░░░   59.68 %
-HCL         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Other       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Terraform   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-zsh         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Python      2 hrs 33 mins   ███████████████░░░░░░░░░░   59.50 %
+Other       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+HCL         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Terraform   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+zsh         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->

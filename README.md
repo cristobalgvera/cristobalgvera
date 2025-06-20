@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-Total Time: 1 hr 27 mins
+Total Time: 9 mins
 
-Python      48 mins         █████████████▒░░░░░░░░░░░   53.45 %
-zsh         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-HCL         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-JSON        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-dosini      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Python     5 mins          ███████████▒░░░░░░░░░░░░░   45.40 %
+TOML       2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
+Other      2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+JSON       2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->

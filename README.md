@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 26 July 2025 - To: 02 August 2025
 
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 52 mins
 
-Lua         51 mins         ██████████▓░░░░░░░░░░░░░░   42.43 %
-Terraform   28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-Java        26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Python      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-YAML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Lua         51 mins         ███████████▒░░░░░░░░░░░░░   45.44 %
+Terraform   28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Java        26 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+zsh         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Bash        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->

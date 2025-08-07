@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Total Time: 1 hr 1 min
+Total Time: 48 mins
 
-Terraform   28 mins         ███████████▓░░░░░░░░░░░░░   46.63 %
-Java        26 mins         ██████████▓░░░░░░░░░░░░░░   42.48 %
-zsh         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Bash        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Terraform    28 mins         ██████████████▓░░░░░░░░░░   58.52 %
+TypeScript   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+zsh          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->

@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 1 hr 52 mins
+Total Time: 2 hrs 23 mins
 
-Lua               57 mins         █████████████░░░░░░░░░░░░   51.52 %
-TypeScript        49 mins         ███████████░░░░░░░░░░░░░░   44.36 %
-Protocol Buffer   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Lua               1 hr            ██████████▒░░░░░░░░░░░░░░   41.79 %
+TypeScript        37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+JavaScript        28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+YAML              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Protocol Buffer   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->

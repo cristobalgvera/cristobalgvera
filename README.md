@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-Total Time: 3 hrs 43 mins
+Total Time: 2 hrs 19 mins
 
-JavaScript   1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   34.98 %
-Terraform    53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-HCL          38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-zsh          28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Terraform   55 mins         ██████████░░░░░░░░░░░░░░░   39.66 %
+HCL         42 mins         ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+zsh         28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Lua         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Text        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->

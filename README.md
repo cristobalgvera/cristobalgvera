@@ -14,15 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Total Time: 1 hr 19 mins
+Total Time: 10 mins
 
-Terraform    58 mins         ██████████████████▒░░░░░░   73.75 %
-TypeScript   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-HCL          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

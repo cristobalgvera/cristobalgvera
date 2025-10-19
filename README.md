@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 4 hrs 21 mins
+Total Time: 1 hr 36 mins
 
-Markdown     1 hr 49 mins    ██████████▓░░░░░░░░░░░░░░   42.04 %
-TypeScript   50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
-Terraform    39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-YAML         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Terraform   40 mins         ██████████▒░░░░░░░░░░░░░░   41.81 %
+Markdown    38 mins         ██████████░░░░░░░░░░░░░░░   39.82 %
+HCL         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Bash        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+JSON        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->

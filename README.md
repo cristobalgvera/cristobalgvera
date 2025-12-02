@@ -14,11 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Total Time: 10 mins
+Total Time: 50 mins
 
-TypeScript   10 mins         █████████████████████████   100.00 %
+Markdown     35 mins         █████████████████▒░░░░░░░   69.93 %
+TypeScript   10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+confini      4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 ```
 
 <!--END_SECTION:waka-->

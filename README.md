@@ -3,7 +3,9 @@
 
 - 🧑🏻‍💻 I’m currently working with **[TypeScript](https://www.typescriptlang.org)** mostly using **[NestJS](https://nestjs.com)**, **[Angular](https://angular.io)**, and **[Nx](https://nx.dev)**.
 
+<!--
 - 🌱 I'm currently learning **[Rust](https://www.rust-lang.org)** (and a sometimes **[Gleam](https://gleam.run/)**)
+-->
 
 - 📫 Contact me through **cristobalgajardo.v@gmail.com**
 

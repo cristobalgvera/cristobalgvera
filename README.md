@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 3 hrs 45 mins
+Total Time: 1 hr 59 mins
 
-Lua          1 hr 48 mins    ████████████░░░░░░░░░░░░░   47.34 %
-Markdown     34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-zsh          19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-JavaScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Markdown     49 mins         ██████████▒░░░░░░░░░░░░░░   41.12 %
+Lua          25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+JSON         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+TSConfig     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->

@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 22 January 2026 - To: 29 January 2026
 
-Total Time: 17 hrs 48 mins
+Total Time: 18 hrs 2 mins
 
-TypeScript   12 hrs 19 mins  █████████████████▒░░░░░░░   69.20 %
-JavaScript   2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-JSON         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Docker       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Lua          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+TypeScript   11 hrs 11 mins  ███████████████▒░░░░░░░░░   61.99 %
+JavaScript   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Docker       1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+YAML         1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Lua          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->

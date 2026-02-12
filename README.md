@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Total Time: 2 hrs 6 mins
+Total Time: 3 hrs 48 mins
 
-TypeScript   1 hr 31 mins    ██████████████████░░░░░░░   72.42 %
-Markdown     18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown     2 hrs 7 mins    ██████████████░░░░░░░░░░░   55.93 %
+TypeScript   1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   38.40 %
+YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->

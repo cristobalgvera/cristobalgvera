@@ -16,13 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Total Time: 9 mins
+Total Time: 2 mins
 
-JSON       6 mins                █████████████████░░░░░░░░   67.63 %
-Lua        2 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
-Markdown   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Lua   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

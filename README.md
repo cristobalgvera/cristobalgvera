@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 3 hrs 11 mins
+Total Time: 5 hrs 40 mins
 
-TypeScript   1 hr 13 mins          █████████▓░░░░░░░░░░░░░░░   38.42 %
-Terraform    38 mins               █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-JSON         30 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-YAML         19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Markdown     18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+TypeScript   3 hrs 7 mins          █████████████▓░░░░░░░░░░░   54.82 %
+YAML         41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Terraform    38 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+JSON         34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Markdown     20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->

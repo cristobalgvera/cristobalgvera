@@ -16,12 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 1 hr 24 mins
+Total Time: 1 hr 20 mins
 
-Markdown   1 hr 22 mins          ████████████████████████▒   97.29 %
-Lua        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Markdown   1 hr 12 mins          ██████████████████████▓░░   90.13 %
+YAML       5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Lua        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 

@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 40 mins
+Total Time: 28 mins
 
-Markdown   29 mins               ██████████████████░░░░░░░   72.28 %
-YAML       11 mins               ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Markdown   22 mins               ████████████████████░░░░░   80.60 %
+YAML       5 mins                █████░░░░░░░░░░░░░░░░░░░░   19.40 %
 ```
 
 <!--END_SECTION:waka-->

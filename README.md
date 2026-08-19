@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 19 mins
+Total Time: 36 mins
 
-JSON         7 mins                █████████▓░░░░░░░░░░░░░░░   39.21 %
-TypeScript   5 mins                ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-Bash         4 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-JavaScript   1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Markdown     12 mins               ████████▒░░░░░░░░░░░░░░░░   32.96 %
+JSON         8 mins                ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+TypeScript   6 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Bash         4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+gitignore    3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 <!--END_SECTION:waka-->

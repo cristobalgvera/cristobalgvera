@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2026 - To: 11 November 2026
+From: 05 November 2026 - To: 12 November 2026
 
-Total Time: 13 mins
+Total Time: 15 mins
 
-Other        26 mins               █████████████████░░░░░░░░   67.34 %
-TypeScript   12 mins               ████████░░░░░░░░░░░░░░░░░   32.41 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other        26 mins               ████████████████░░░░░░░░░   63.39 %
+TypeScript   12 mins               ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+YAML         2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
